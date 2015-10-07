@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/software"
+        android:title="소프트웨어학과"/>
+
+    <item
+        android:id="@+id/mechanical_engineering"
+        android:title="기계공학과"/>
+
+    <item
+        android:id="@+id/management"
+        android:title="경영학과"/>
+
+</menu>
