@@ -46,7 +46,7 @@ public class Work_Thread extends Thread {
 			Statement stmt = null;
 			String sql;
 			ResultSet rs;
-			String url = "jdbc:mysql://localhost/messagedb";
+			String url = "jdbc:mysql://localhost/studentdb";
 			String id = "root"; // 사용자 계정
 			String pw = "1234"; // 사용자 계정의 패스워드
 			Class.forName("com.mysql.jdbc.Driver");
