@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/finalproject"
+        android:title="종합설계프로젝트">
+
+    </item>
+
+    <item
+        android:id="@+id/datascience"
+        android:title="데이터사이언스">
+
+    </item>
+
+    <item
+        android:id="@+id/computergraphics"
+        android:title="컴퓨터그래픽스">
+
+    </item>
+
+</menu>
